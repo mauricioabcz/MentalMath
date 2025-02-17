@@ -2,6 +2,9 @@
 
 Este repositório contém um **gerador de números aleatórios** implementado em **HTML**, **CSS** e **JavaScript**, com um layout moderno e responsivo. O usuário pode escolher a quantidade de algarismos dos números gerados, visualizar cálculos matemáticos (soma, subtração, multiplicação e divisão) e o tempo de execução entre a geração dos números e a confirmação dos cálculos.
 
+## Como usar?
+Acessar o [repositório](https://mauricioabcz.github.io/MentalMath).
+
 ## Funcionalidades
 
 - Escolher a quantidade de **algarismos** dos números gerados.
